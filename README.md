@@ -1,7 +1,13 @@
-# flutter_mqtt_app
+# flutter_chat_mqtt_app
 
-A flutter application to demonstrate MQTT.... Using different MQTT brokers transfer data between multiple devices. Realtime data synchronization.
+Una adaptación de la aplicación de @anoop4real, la cual utiliza un broker MQTT parar crear un chat entre deferentes dispositivos.
 
-![flutter](https://user-images.githubusercontent.com/6782228/69481623-2c61dd00-0e13-11ea-9ae1-198b13572456.gif)
+La aplicación original solo permitia chat entre 2 dispositivos, y debian ser de diferente OS, osea Android e iOS.
+
+Esta versión permite chat entre muchos dispositivos, se establece un nik a cada usuario, y se modifica la un poco la interfaz.
+
+La aplicación original la pueden encontara aca:
+
+https://github.com/anoop4real/Flutter_MQTT
 
 
